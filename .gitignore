@@ -1,0 +1,22 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android
+android/local.properties
+android/.gradle
+android/captures/
+
+# iOS
+ios/.symlinks/
+ios/Pods/
+
+# ⚠️ SÉCURITÉ — Ne jamais publier
+*.jks
+*.keystore
+lib/config/app_config.dart
